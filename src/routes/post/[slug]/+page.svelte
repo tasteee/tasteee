@@ -7,7 +7,6 @@
 
 	let { data }: { data: PageData } = $props();
 	const post = data.post;
-	const session = data.session;
 	const user = data.user;
 
 	let deleteDialogOpen = $state(false);

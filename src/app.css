@@ -195,6 +195,10 @@ body {
 	align-items: center;
 }
 
+p {
+	font-family: 'TikTok Sans', sans-serif;
+}
+
 button,
 input,
 textarea,
